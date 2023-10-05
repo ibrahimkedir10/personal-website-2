@@ -14,7 +14,7 @@ function Home() {
         <div className="prompt">
           <p className="cursive">A software developer with a passion for learning and creating.</p>
             {/* LinkedIn Icon with a link */}
-            <a href="https://www.linkedin.com/in/ibrahim-kedir/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/ibrahim-kedir/" target="_blank" rel="noopener noreferrer" >
             <LinkedInIcon />
           </a>
           {/* Email Icon with a mailto link */}
