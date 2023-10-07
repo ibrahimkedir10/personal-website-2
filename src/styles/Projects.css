@@ -165,6 +165,18 @@
   --size: 20px;
 }
 
+.arrow{
+  font-size: 100px;
+  border: thick;
+  color: #010000;
+  display: flex;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+  margin-bottom: 10px;
+
+}
+
 .h1moving {
   display: flex;
 	align-items: center;
@@ -192,12 +204,18 @@
   background-size: var(--size) var(--size);
   background-position: 0 0;
   animation: stripes 1s linear infinite;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }	
 
 @keyframes stripes {
   100% { 
     background-position: var(--size) 0, var(--size) 0, var(--size) 0;
   }
+}
+.image-container {
+  position: relative;
+  display: inline-block;
 }
 
 .profile-image {
@@ -211,7 +229,30 @@
   margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
+  position: relative; /* Make the container relative for absolute positioning */
 }
+
+.linkimg{
+  width: 30vh;
+  height: 30vh;
+  object-fit: cover;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.click-text {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  font-size: 14px;
+}
+
 
 .github-link {
   display: flex;

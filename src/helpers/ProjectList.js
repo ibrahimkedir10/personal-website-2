@@ -1,39 +1,26 @@
-import Proj1 from "../assets/proj1.jpg";
-import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
+import Proj1 from "../assets/ATM2.png";
+import Proj2 from "../assets/webapi.png";
+import Proj3 from "../assets/resumeapp.png";
 import Proj4 from "../assets/proj4.webp";
 import Proj5 from "../assets/proj5.jpg";
 import Proj6 from "../assets/proj6.png";
 
 export const ProjectList = [
   {
-    name: "Dijkstra Algorithm Visualizer",
+    name: "Wells Fargo ATM-Application",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "c#, .NET. SQL,",
+   
   },
   {
-    name: "Ecommerce Website",
+    name: "BookStore API",
     image: Proj2,
-    skills: "React,Node.js,MongoDB",
+    skills: "ASP.NET Core 5.0,c#, MongoDB",
   },
   {
-    name: "Spotify Clone",
+    name: "Roast My Resume",
     image: Proj3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: "React,ASP.NET, C# ,MongoDB,",
   },
-  {
-    name: "Social Media Website",
-    image: Proj4,
-    skills: "React,Node.js,MySQL,GraphQL",
-  },
-  {
-    name: "Dashboard Visualizer",
-    image: Proj5,
-    skills: "JavaScript,HTML,CSS",
-  },
-  {
-    name: "Mobile Game",
-    image: Proj6,
-    skills: "React Native,JavaScript,HTML,CSS",
-  },
+ 
 ];
