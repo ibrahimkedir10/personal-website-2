@@ -22,7 +22,7 @@ function Projects() {
         <h1 className="h1moving"> My Personal Projects</h1>
         <div className="projectList">
           {ProjectList.map((project, idx) => (
-            <ProjectItem key={idx} name={project.name} image={project.image} />
+            <ProjectItem id={idx} name={project.name} image={project.image} skills={project.skills} link={project.link}/>
           ))}
         </div>
       </div>
