@@ -3,7 +3,7 @@ import Proj2 from "../assets/webapi.png";
 import Proj3 from "../assets/resumeapp.png";
 import Proj4 from "../assets/recipeapp.png";
 import Proj5 from "../assets/snakegame.png";
-import Proj6 from "../assets/proj6.png";
+import Proj6 from "../assets/harrypoter.png";
 
 export const ProjectList = [
   {
@@ -36,6 +36,7 @@ export const ProjectList = [
     name: "Snake Game",
     image: Proj5,
     skills: "JavaScript,HTML,CSS",
+    link: "https://github.com/ibrahimkedir10/recipe-web-app",
   },
   {
     name: "Harry Poter Movie Generator",
