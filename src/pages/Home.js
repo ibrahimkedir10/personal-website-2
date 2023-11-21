@@ -34,13 +34,13 @@ function Home() {
           <li className="item">
             <h2> Programing Languages:</h2>
             <span>
-              JavaScript, C#, HTML, CSS, SQL
+              JavaScript, C#, SQL, HTML, CSS
             </span>
           </li>
           <li className="item">
             <h2>Frameworks and Libraries:</h2>
             <span>
-              .Net, React, Vue.js, JSON, Linux.
+              .Net, React, ASP.Net, PhpAdmin, GIT, JSON, Linux, JMP.
             </span>
           </li>
           <li className="item">
