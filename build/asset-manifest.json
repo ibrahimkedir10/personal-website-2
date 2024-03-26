@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fd2a309.css",
-    "main.js": "/static/js/main.aa67f55d.js",
+    "main.css": "/static/css/main.174fa9ba.css",
+    "main.js": "/static/js/main.890a9714.js",
     "static/js/787.35319a31.chunk.js": "/static/js/787.35319a31.chunk.js",
     "static/media/gradpic2.jpg": "/static/media/gradpic2.ab07a651a871f2770515.jpg",
     "static/media/CROSS COUNTRY.jpg": "/static/media/CROSS COUNTRY.6cb0acb20efdfbe7fe21.jpg",
@@ -16,12 +16,12 @@
     "static/media/propic2.jpg": "/static/media/propic2.d85e1b64c6229acdf82e.jpg",
     "static/media/webapi.png": "/static/media/webapi.bc1dc9d0e0fc2f43819a.png",
     "index.html": "/index.html",
-    "main.2fd2a309.css.map": "/static/css/main.2fd2a309.css.map",
-    "main.aa67f55d.js.map": "/static/js/main.aa67f55d.js.map",
+    "main.174fa9ba.css.map": "/static/css/main.174fa9ba.css.map",
+    "main.890a9714.js.map": "/static/js/main.890a9714.js.map",
     "787.35319a31.chunk.js.map": "/static/js/787.35319a31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fd2a309.css",
-    "static/js/main.aa67f55d.js"
+    "static/css/main.174fa9ba.css",
+    "static/js/main.890a9714.js"
   ]
 }
