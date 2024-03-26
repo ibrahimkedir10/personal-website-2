@@ -7,7 +7,6 @@ import "react-vertical-timeline-component/style.min.css";
 import SchoolIcon from "@material-ui/icons/School";
 import WorkIcon from "@material-ui/icons/Work";
 import EmojiEventsIcon from "@material-ui/icons/EmojiEvents";
-import SportsIcon from "@material-ui/icons/Sports";
 import DirectionsRunIcon from "@material-ui/icons/DirectionsRun";
 import "../styles/experence.css";
 import profilePicture from "../assets//gradpic2.jpg";

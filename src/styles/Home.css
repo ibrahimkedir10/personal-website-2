@@ -16,7 +16,7 @@
     #111111;
   color: #ffffff;
   width: 100%;
-  height: 150vh;
+  height: auto;
   align-items: center;
   font-family: "Arial", sans-serif;
   align-items: center;
@@ -43,7 +43,7 @@
 }
 .about {
   width: 100%;
-  height: calc(100vh - 100px);
+  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;

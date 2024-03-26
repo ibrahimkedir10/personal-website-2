@@ -10,7 +10,8 @@ function ProjectDisplay() {
   return (
     <div className="project">
       <h1> {project.name}</h1>
-      <img class="imgdisplay"src={project.image} />
+      {/* Add alt attribute and change class to className */}
+      <img className="imgdisplay" src={project.image} alt={`${project.name} project`} />
       <p>
         <b>Skills:</b> {project.skills}
       </p>
@@ -19,7 +20,6 @@ function ProjectDisplay() {
           <GitHubIcon />
         </a>
       )}
-
     </div>
   );
 }
